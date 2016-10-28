@@ -1,1 +1,1 @@
-osascript prompt.js > time.log
+osascript prompt.js >> time.log
